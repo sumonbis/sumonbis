@@ -11,8 +11,8 @@ I'm best reached via [email](http://www.cs.iastate.edu/~sumon). I'm always open 
 
 ---
 <p align="center">
-	<a href="https://github.com/sumonbis"><img src="https://img.shields.io/github/followers/sumonbis.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/sumonbis"><img src="https://img.shields.io/twitter/follow/sumonbis?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/sumonb"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://scholar.google.com/citations?hl=en&user=OK8S3cEAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"><img src="https://img.shields.io/badge/Citations-55-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
+	<a href="https://github.com/sumonbis"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=GitHub" alt="GitHub"></a>
+                            <a href="https://twitter.com/sumonbis"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter" alt="Twitter"></a>
+                            <a href="https://www.linkedin.com/in/sumonb"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+                            <a href="https://scholar.google.com/citations?hl=en&user=OK8S3cEAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"><img src="https://img.shields.io/badge/Scholar--_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
 </p>
