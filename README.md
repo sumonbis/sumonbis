@@ -2,12 +2,12 @@
 
 I'm a computer scientist. My research interests are data science, software engineering and programming languages. Currently, I am working on improving fairness of machine learning models.
 
-- 🎓 I'm a computer science Ph.D. student at Iowa State University.
+- 🎓 I'm a computer science Ph.D. candidate at Iowa State University.
 - 🔭 Developing methodologies that can detect and mitigate unfairness in data-driven software.
 - 🌱 Working on mining and analyzing data science programs, especially ML pipelines from open source repositories.
 - 😄 Pronouns: he/him
 
-I'm best reached via [email](http://www.cs.iastate.edu/~sumon). I'm always open to interesting conversations and collaboration.
+I'm best reached via email (sumon@iastate.edu). I'm always open to interesting conversations and collaboration. My [homepage](https://sumonbis.github.io/).
 
 ---
 <p align="center">
