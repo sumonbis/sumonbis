@@ -1,6 +1,6 @@
 ### Hi, I'm Sumon 👋
 
-I'm a computer scientist. My research interests aresoftware engineering, programming languages, and data science. Currently, I am working on improving fairness of machine learning models.
+I'm a computer scientist. My research interests are in the intersection of software engineering, programming languages, and data science. Currently, I am working on improving fairness of machine learning models.
 
 - 🎓 I'm a computer science Ph.D. candidate at Iowa State University.
 - 🔭 Developing methodologies that can detect and mitigate unfairness in data-driven software.
