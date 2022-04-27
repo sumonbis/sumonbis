@@ -2,7 +2,7 @@
 
 I'm a computer scientist. My research interests are in the intersection of software engineering, programming languages, and AI. Currently, I am working on improving fairness of machine learning models.
 
-- 🎓 I completed my Ph.D. in computer science Ph.D. from Iowa State University.
+- 🎓 I completed my Ph.D. in computer science from Iowa State University.
 - 🔭 Developing methodologies that can detect and mitigate unfairness in data-driven software.
 - 🌱 Working on mining and analyzing data science programs, especially ML pipelines from open source repositories.
 - 😄 Pronouns: he/him
