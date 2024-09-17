@@ -1,13 +1,12 @@
 ### Hi, I'm Sumon 👋
 
-I'm a computer science researcher. My research interests are in the intersection of software engineering and AI. Currently, I am working on improving fairness of machine learning models.
+I'm a computer science researcher. My research interests are in the intersection of software engineering and AI. Currently, I am working on improving fairness and safety of machine learning-enabled systems.
 
-- 📌 I am a Postdoctoral Researcher at Carnegie Mellon University.
-- 🎓 I received Ph.D. in computer science from Iowa State University.
-- 🌱 Developing techniques that increase dependability of AI-enabled software systems.
+- 📌 I'm a tenure-track Assistant Professor at Case Western Reserve University, Department of Computer and Data Sciences.
+- 🎓 I completed my Ph.D. in computer science from Iowa State University and Postdoc at Carnegie Mellon University.
 - 📎 Pronouns: he/him
 
-I'm best reached via email (sumonb@cs.cmu.edu). I'm always open to interesting conversations and collaboration. My [homepage](https://sumonbis.github.io/).
+I'm best reached via email (sumon@case.edu). My [homepage](https://sumonbis.github.io/).
 
 ---
 <p align="center">
