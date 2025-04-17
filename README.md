@@ -1,6 +1,6 @@
 ### Hi, I'm Sumon 👋
 
-I'm a computer science researcher. My research interests are in the intersection of software engineering and AI. Currently, I am working on improving fairness and safety of machine learning-enabled systems.
+My research interests are in the intersection of software engineering and AI. Currently, I am working on improving fairness and safety of AI systems.
 
 - 📌 I'm a tenure-track Assistant Professor at Case Western Reserve University, Department of Computer and Data Sciences.
 - 🎓 I completed my Ph.D. in computer science from Iowa State University and Postdoc at Carnegie Mellon University.
